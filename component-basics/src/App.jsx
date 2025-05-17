@@ -7,8 +7,13 @@ function App() {
   return (
     <>
       <div>
-        <Message></Message>
-        <Welcome></Welcome>
+        <Welcome />
+        <hr />
+        <Message />
+        <hr />
+        <Message />
+        <hr />
+        <Welcome/>
       </div>
     </>
   )
