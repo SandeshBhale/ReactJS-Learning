@@ -1,0 +1,19 @@
+.body {
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    background-color: brown;
+    border: 10px solid black;
+}
+
+.content {
+    background-color: skyblue;
+    border: 10px dotted black;
+}
+
+.head {
+    background-color: lightgreen;
+    border: 10px solid black;
+}

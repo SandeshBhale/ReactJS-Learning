@@ -1,0 +1,11 @@
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\bin\Debug\net8.0\Core.dll
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\Core.dll
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\SANDESH\Desktop\Phoenix Code\Git-Upload\ReactProject\ExamApplication\Core\obj\Debug\net8.0\ref\Core.dll
